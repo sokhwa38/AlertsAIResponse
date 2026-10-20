@@ -170,7 +170,7 @@ ok: [localhost] => {"rollout_status.stdout": "deployment \"payment-processor\" s
 
 | Resource Spec | Before Remediation | After Automated Self-Healing |
 |---|---|---|
-| **Memory Request** | `128Mi` | `128Mi` |
+| **Memory Request** | `128Mi` | `256Mi` |
 | **Memory Limit** | `1Gi` | **`2Gi`** |
 | **Rollout Status** | Degraded / Pending OOM | **`successfully rolled out`** |
 
