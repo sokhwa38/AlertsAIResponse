@@ -1,6 +1,5 @@
 # AI-Powered Kubernetes Self-Healing Platform
 
-**Author:** Ow Sok Hwa  
 **Date:** October 13, 2026  
 **Version:** v1.0  
 **Domain:** AIOps / SRE / Agentic AI  
