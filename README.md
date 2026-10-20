@@ -6,17 +6,6 @@
 
 ---
 
-## 🛠️ Tech Stack & Frameworks
-
-* **LLM Reasoning Engine:** Gemini 3 Flash
-* **Orchestration & Agentic Framework:** LangChain
-* **Vector Database:** Chroma DB (Operational Runbook Context / RAG)
-* **Messaging & Ingestion:** Apache Kafka
-* **Automation Engine:** Ansible Automation Controller / Playbooks
-* **Target Environment:** Kubernetes (k8s)
-* **Monitoring & Alerting:** Prometheus / Alertmanager
-
----
 
 ## 📋 Executive Summary
 
